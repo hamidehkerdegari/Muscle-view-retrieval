@@ -5,8 +5,8 @@ Official repository for [Automatic Retrieval of Corresponding US Views in Longit
 
 **Authors:**
 
-* Nhat Phung
 * Hamideh Kerdegari
+* Nhat Phung
 * Alberto Gomez
 
 

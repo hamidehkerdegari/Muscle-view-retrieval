@@ -27,5 +27,8 @@ This repository contains the official implementation of the MICCAI2023 paper "Au
 Please check the usage instructions in ............
 
 # Acknowledgement
-This work was supported by the Wellcome Trust UK (110179/Z/15/Z, 203905/Z/16/Z), by the Wellcome Trust IEH Award [102431], by the Wellcome/EPSRC Centre for Medical Engineering [WT203148/Z/16/Z], by the National Institute for Health Research (NIHR) Biomedical Research Centre at Guy's and St Thomas' NHS Foundation Trust and King's College London. 
-The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health.
+This work was supported by the Wellcome Trust UK (110179/Z/15/Z, 203905/Z/16/Z, WT203148/Z/16/Z), by the Department of Health via the National Institute for Health Research (NIHR) comprehensive Biomedical Research Centre at Guy's and St Thomas' NHS Foundation Trust in partnership with King's College London and King's College Hospital NHS Foundation Trust. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health.
+
+
+
+

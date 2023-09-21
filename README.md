@@ -3,6 +3,12 @@ This repository contains the implementation of our MICCAI2023 paper [Automatic R
 
 ![Modelarch](https://github.com/hamidehkerdegari/Muscle-view-retrieval/assets/30697849/d3b53948-9b6b-46fc-9d96-755c3b2b7fb5)
 
+
+
+## Build and Usage
+
+Please check the usage instructions in ............
+
 **Authors:**
 
 * Hamideh Kerdegari
@@ -22,9 +28,9 @@ Please consider citing our paper in your publication if the project helps your r
   year={2023}
 }
 ```
-## Build and Usage
 
-Please check the usage instructions in ............
+## Contact information
+If you have any questinos, please contact me via hamideh.kerdegari@gmail.com
 
 # Acknowledgement
 This work was supported by the Wellcome Trust UK (110179/Z/15/Z, 203905/Z/16/Z, WT203148/Z/16/Z), by the Department of Health via the National Institute for Health Research (NIHR) comprehensive Biomedical Research Centre at Guy's and St Thomas' NHS Foundation Trust in partnership with King's College London and King's College Hospital NHS Foundation Trust. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health.

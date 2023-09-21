@@ -10,9 +10,9 @@ This repository contains the implementation of our MICCAI2023 paper [Automatic R
 * Alberto Gomez
 
 
-## Summary
+## Citation
 
-This repository contains the official implementation of the MICCAI2023 paper "Automatic Retrieval of Corresponding US Views in Longitudinal Examinations". If you use this repository, please cite:
+Please consider citing our paper in your publications if the project helps your research.
  
 ```bibtex
 @article{kerdegari2023automatic,

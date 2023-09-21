@@ -1,5 +1,5 @@
 # Automatic Retrieval of Corresponding US Views in Longitudinal Examinations
-Official repository for [Automatic Retrieval of Corresponding US Views in Longitudinal Examinations](https://arxiv.org/abs/2306.04739), MICCAI 2023.
+This repository contains the implementation of our MICCAI2023 paper [Automatic Retrieval of Corresponding US Views in Longitudinal Examinations](https://arxiv.org/abs/2306.04739).
 
 ![Modelarch](https://github.com/hamidehkerdegari/Muscle-view-retrieval/assets/30697849/d3b53948-9b6b-46fc-9d96-755c3b2b7fb5)
 

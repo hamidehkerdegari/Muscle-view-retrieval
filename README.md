@@ -7,7 +7,7 @@ This repository contains the implementation of our MICCAI2023 paper [Automatic R
 
 ## Build and Usage
 
-Please check the usage instructions in ............
+Currently, I am updating this repo and full instructions with code will be availble soon ............
 
 **Authors:**
 

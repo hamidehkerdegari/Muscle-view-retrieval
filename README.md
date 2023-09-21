@@ -12,7 +12,7 @@ This repository contains the implementation of our MICCAI2023 paper [Automatic R
 
 ## Citation
 
-Please consider citing our paper in your publications if the project helps your research.
+Please consider citing our paper in your publication if the project helps your research.
  
 ```bibtex
 @article{kerdegari2023automatic,

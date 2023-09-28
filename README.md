@@ -6,6 +6,28 @@ This repository contains the implementation of our MICCAI2023 paper [Automatic R
 
 
 ## Build and Usage
+## Dependencies
+
+The minimum requirements are :
+
+matplotlib
+numpy
+opencv-python
+scikit-learn
+scipy
+matplotlib
+numpy
+opencv-python
+scikit-learn
+scipy
+tensorboard==2.7.0
+tensorflow-gpu==2.7.0
+keras==2.7.0
+Pillow
+dill
+sklearn
+protobuf==3.20.*
+
 
 Currently, I am updating this repo and full instructions with code will be availble soon ............
 

@@ -9,13 +9,12 @@ bed. Muscle mass must be recovered through physiotherapy before patient discharg
 recovery process by measuring the muscle size over time. However, these manual measurements are subject to large variability, particularly since
 the scans are typically acquired on different days and potentially by different operators. In this paper, we propose a self-supervised contrastive learning approach to automatically retrieve similar ultrasound muscle views at different scan times. Three different models were compared using data from 67 patients acquired in the ICU. Results indicate that our contrastive model outperformed a supervised baseline model in the task of view retrieval with an AUC of 73.52% and when combined with an automatic segmentation model achieved 5.7% ± 0.24% error in cross-sectional area. Furthermore, a user study survey confirmed the efficacy of our model for muscle view retrieval.
 
-## Build and Usage
 ## Dependencies
 
 The minimum requirements are :
 
-matplotlib
-numpy
+* matplotlib
+* numpy
 opencv-python
 scikit-learn
 scipy
@@ -34,6 +33,9 @@ protobuf==3.20.*
 
 
 Currently, I am updating this repo and full instructions with code will be availble soon ............
+
+## Build and Usage
+
 
 **Authors:**
 

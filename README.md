@@ -44,7 +44,7 @@ Currently, I am updating this repo and full instructions with code will be avail
 
 ## Citation
 
-Please consider citing our paper in your publication if the project helps your research.
+If you find this paper useful in your research, please consider citing:
  
 ```bibtex
 @article{kerdegari2023automatic,

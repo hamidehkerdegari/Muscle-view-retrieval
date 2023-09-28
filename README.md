@@ -18,7 +18,11 @@ The minimum requirements are :
   
 We recommend you to create a virtual environment as follows:
 
-> python -m venv virtual-environment-name
+> python -m venv virtual-environment-name 
+
+Then, activate the environment:
+
+> source virtual-environment-name/bin/activate
 
 * scikit-learn
  

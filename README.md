@@ -11,9 +11,6 @@ the scans are typically acquired on different days and potentially by different 
 
 ## Dependencies
 
-
-The minimum requirements are :
-
 * Python>=3.8
   
 We recommend you to create a virtual environment as follows:
@@ -23,6 +20,10 @@ We recommend you to create a virtual environment as follows:
 Then, activate the environment:
 
 > source virtual-environment-name/bin/activate
+
+Other requirements are:
+
+> pip install -r requirements.txt
 
 * scikit-learn
  

@@ -1,9 +1,13 @@
 # Automatic Retrieval of Corresponding US Views in Longitudinal Examinations
-This repository contains the implementation of our MICCAI2023 paper [Automatic Retrieval of Corresponding US Views in Longitudinal Examinations](https://arxiv.org/abs/2306.04739).
+This repository is an official implementation of our MICCAI2023 paper [Automatic Retrieval of Corresponding US Views in Longitudinal Examinations](https://arxiv.org/abs/2306.04739).
 
 ![Modelarch](https://github.com/hamidehkerdegari/Muscle-view-retrieval/assets/30697849/d3b53948-9b6b-46fc-9d96-755c3b2b7fb5)
 
-
+## Abstact
+Skeletal muscle atrophy is a common occurrence in critically ill patients in the intensive care unit (ICU) who spend long periods in
+bed. Muscle mass must be recovered through physiotherapy before patient discharge and ultrasound imaging is frequently used to assess the
+recovery process by measuring the muscle size over time. However, these manual measurements are subject to large variability, particularly since
+the scans are typically acquired on different days and potentially by different operators. In this paper, we propose a self-supervised contrastive learning approach to automatically retrieve similar ultrasound muscle views at different scan times. Three different models were compared using data from 67 patients acquired in the ICU. Results indicate that our contrastive model outperformed a supervised baseline model in the task of view retrieval with an AUC of 73.52% and when combined with an automatic segmentation model achieved 5.7% ± 0.24% error in cross-sectional area. Furthermore, a user study survey confirmed the efficacy of our model for muscle view retrieval.
 
 ## Build and Usage
 ## Dependencies

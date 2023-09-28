@@ -31,6 +31,16 @@ Other requirements are:
 ## Build and Usage
 Currently, I am updating this repo and full instructions with code will be availble soon ............
 
+## Dataset preparation
+coming soon....
+
+## Pretrained model
+coming soon....
+
+## Downstream task
+coming soon....
+
+
 
 **Authors:**
 

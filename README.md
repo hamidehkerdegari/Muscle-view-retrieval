@@ -11,6 +11,8 @@ the scans are typically acquired on different days and potentially by different 
 
 ## Dependencies
 
+* Linux, CUDA>=11.2
+  
 * Python>=3.8
   
 We recommend you to create a virtual environment as follows:

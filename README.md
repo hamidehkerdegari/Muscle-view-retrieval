@@ -16,22 +16,35 @@ The minimum requirements are :
 * Python>=3.8
   
 We recommend you to create a virtual environment as follows:
-> python -m venv <virtual-environment-name>.
+*** python -m venv virtual-environment-name
 
-scikit-learn
-scipy
-matplotlib
-numpy
-opencv-python
-scikit-learn
-scipy
-tensorboard==2.7.0
-tensorflow-gpu==2.7.0
-keras==2.7.0
-Pillow
-dill
-sklearn
-protobuf==3.20.*
+* scikit-learn
+ 
+* scipy
+
+* matplotlib
+
+* numpy
+
+* opencv-python
+
+* scikit-learn
+ 
+* scipy
+
+* tensorboard==2.7.0
+
+* tensorflow-gpu==2.7.0
+
+* keras==2.7.0
+
+* Pillow
+
+* dill
+
+* sklearn
+
+* protobuf==3.20.*
 
 
 Currently, I am updating this repo and full instructions with code will be availble soon ............

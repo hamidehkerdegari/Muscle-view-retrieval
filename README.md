@@ -11,12 +11,21 @@ the scans are typically acquired on different days and potentially by different 
 
 ## Dependencies
 
+
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
+
+
 The minimum requirements are :
 
 * Python>=3.8
   
 We recommend you to create a virtual environment as follows:
-*** python -m venv virtual-environment-name
+> python -m venv virtual-environment-name
 
 * scikit-learn
  

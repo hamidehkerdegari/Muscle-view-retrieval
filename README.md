@@ -16,7 +16,7 @@ The minimum requirements are :
 * Python>=3.8
   
 We recommend you to create a virtual environment as follows:
-> **_fgdfgdfgdfgdgdf_**   python -m venv <virtual-environment-name>.
+> python -m venv <virtual-environment-name>.
 
 scikit-learn
 scipy

@@ -14,8 +14,9 @@ the scans are typically acquired on different days and potentially by different 
 The minimum requirements are :
 
 * Python>=3.8
+  
 We recommend you to create a virtual environment as follows:
-> **_NOTE:_**   python -m venv <virtual-environment-name>.
+> **_fgdfgdfgdfgdgdf_**   python -m venv <virtual-environment-name>.
 
 scikit-learn
 scipy

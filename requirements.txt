@@ -1,0 +1,12 @@
+matplotlib
+numpy
+opencv-python
+scikit-learn
+scipy
+tensorboard==2.7.0
+tensorflow-gpu==2.7.0
+keras==2.7.0
+Pillow
+dill
+sklearn
+protobuf==3.20.*

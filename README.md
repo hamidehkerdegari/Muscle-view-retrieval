@@ -32,13 +32,13 @@ Other requirements are:
 Currently, I am updating this repo and full instructions with code will be availble soon ............
 
 ## Dataset preparation
-All the required codes for dataset preparation is inside utils folder.
+All the required codes for dataset preparation is inside /utils folder.
 
 ## Pretrained model
-coming soon....
+The path to the pretrained model "model/simclr.py" and the path to the pretrained weight "checkpoints/ss"
 
 ## Downstream task
-coming soon....
+The path to the downstream task (classification task) /main_ssl_eval_simclr.py
 
 
 

@@ -198,9 +198,6 @@ for i, sv in enumerate(x1_test1):
     results.append(result)
 
 
-### Here positive pairs and negative pairs are visualized along with ground truth. ###
-### Here probablity of being positive for all the standard views is visulaized. ###
-
 fig, ax = plt.subplots()
 for sv, result in enumerate(results):
     ax.plot(result, label="SV-"+str(sv))

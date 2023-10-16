@@ -139,7 +139,6 @@ class Simclr(tf.keras.Model):
         # Forward pass through the encoder and predictor.
         with tf.GradientTape() as tape:
             z1, z2 = self.encoder(ds_one), self.encoder(ds_two)
-            #p1, p2 = self.projection_head(z1), self.projection_head(z2)
 
         return z1, z2
 

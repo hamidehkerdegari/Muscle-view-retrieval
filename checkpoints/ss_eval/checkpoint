@@ -1,0 +1,2 @@
+model_checkpoint_path: "ss_eval"
+all_model_checkpoint_paths: "ss_eval"

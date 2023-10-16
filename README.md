@@ -38,7 +38,7 @@ All the required codes for dataset preparation is inside /utils folder.
 The path to the pretrained model "model/simclr.py" and the path to the pretrained weight "checkpoints/ss"
 
 ## Downstream task
-The path to the downstream task (classification task) /main_ssl_eval_simclr.py
+The path to the downstream task (classification task) "/main_ssl_eval_simclr.py"
 
 
 

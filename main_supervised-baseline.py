@@ -6,13 +6,9 @@ __maintainer__ = "Hamideh Kerdegari"
 __email__ = "hamideh.kerdegari@gmail.com"
 __status__ = "R&D"
 
-#This piece of code is used to disable GPU temporary and run the code from CPU
-import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
-#This piece of code is used to disable GPU temporary and run the code from CPU
-
 
 ### This script is used for supervised baseline model training. ###
+
 
 
 from model.supervised_baseline import Supervised_baseline, build_model, get_encoder
@@ -59,18 +55,6 @@ def make_data(dataset_paths):
 
 paths = ['/home/localhk20/data/Group2-MUSCLE/CNS', '/home/localhk20/data/Group2-MUSCLE/TETANUS']
 train_x1, train_x2, train_l, validation_x1, validation_x2, validation_l = make_data(dataset_paths=paths)
-
-
-###### This section is used for visualizing negative and positive pairs #######
-# ind = list(range(validation_x1.shape[0]))
-# random.shuffle(ind)
-# for i in ind:
-#     fig, axs = plt.subplots(1, 2, figsize=(9, 3), sharey=True)
-#     axs[0].imshow(train_x1[i, 0, :, :, 0])
-#     axs[1].imshow(train_x2[i, 0, :, :, 0])
-#     fig.suptitle(str(validation_l[i]))
-#     plt.show()
-###############################################################################
 
 
 train_x1_flip = flip(train_x1)

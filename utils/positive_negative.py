@@ -248,7 +248,6 @@ class MuscleUltrasoundDataset:
 
 
                 if float((len(p_data)+len(n_data)) / len(data)) < 0.5:
-                    # print("BOOOOOO")
                     n_data = data
                     p_data = []
 
@@ -256,17 +255,8 @@ class MuscleUltrasoundDataset:
                 np.save(features_folder_path + "/" + str(s) + "_p.npy", np.array(p_data))
                 np.save(features_folder_path + "/" + str(s) + ".npy", np.array(data))
 
-                # if len(p_data) == 0 and len(n_data) == 0:
-                #     plt.imshow(data[0][0])
-                #     plt.show()
-                #     plt.imshow(data[0][-1])
-                #     plt.show()
-
                 print("p:", len(p_data), "n:", len(n_data), "all:", len(data))
 
-                # print("data shape", np.array(section_frames).shape)
-                # plt.imshow(section_frames[int(len(section_frames) / 2)])
-                # plt.show()
 
 
 muscle = MuscleUltrasoundDataset(dataset_path='dataset path') #  path of data

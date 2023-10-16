@@ -32,7 +32,7 @@ Other requirements are:
 Currently, I am updating this repo and full instructions with code will be availble soon ............
 
 ## Dataset preparation
-All the required codes for dataset preparation is inside /utils folder.
+All the required codes for dataset preparation is inside "/utils" folder.
 
 ## Pretrained model
 The path to the pretrained model "model/simclr.py" and the path to the pretrained weight "checkpoints/ss"

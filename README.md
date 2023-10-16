@@ -28,9 +28,6 @@ Other requirements are:
 > pip install -r requirements.txt
 
 
-## Build and Usage
-Currently, I am updating this repo and full instructions with code will be availble soon ............
-
 ## Dataset preparation
 All the required codes for dataset preparation is inside "/utils" folder.
 

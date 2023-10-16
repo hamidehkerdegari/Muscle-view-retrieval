@@ -129,7 +129,6 @@ def main():
     history = train(model, x_train, y_train, x_val, y_val, out_path="checkpoints/ss_eval")
 
     #Visualize the training progress of the model.
-    ####################Inja nemudar 2 value bayad dashte basham ya inke 2 ta nemudar bekesham
     plt.plot(history.history["loss"], 'r', label='Training loss')
     plt.plot(history.history["val_loss"], 'b', label='Validation loss')
     plt.ylabel("Loss")

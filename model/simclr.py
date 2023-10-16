@@ -76,9 +76,6 @@ class Simclr(tf.keras.Model):
 
 
     def contrastive_loss(self, projections_1, projections_2):
-        # InfoNCE loss (information noise-contrastive estimation)
-        # NT-Xent loss (normalized temperature-scaled cross entropy)
-
         # Cosine similarity: the dot product of the l2-normalized feature vectors
         projections_1 = tf.math.l2_normalize(projections_1, axis=1)
         projections_2 = tf.math.l2_normalize(projections_2, axis=1)
